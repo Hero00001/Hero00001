@@ -13,9 +13,7 @@
 
 
 <ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" alt="Joystick Emoji" width="25px" align="center" /> Currently working  <strong> with Unreal Engine</strong>
-  </li>
+
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong> game design</strong>
   </li>
