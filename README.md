@@ -1,7 +1,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm Hero00001!
+  Hi, I'm  game devoloper!
   <img align="right" src="https://komarev.com/ghpvc/?username=Hero00001" alt="GitHub profile views counter">
 </h1>
 
@@ -9,7 +9,7 @@
   <img src="https://i.pinimg.com/originals/b1/d8/a3/b1d8a35c6e61690081f25332f3d640fb.gif" width="300px" align="right" alt="Game development GIF"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Building worlds, one line of code at a time.</div> 
+ <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Building worlds, one line of code at a time.</div> 
 
 
 <ul>
@@ -35,7 +35,7 @@
   </picture>
 </div>
   
-  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
+  <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
   
 <!-- Replace the # with your actual social media links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/#) 
@@ -43,7 +43,7 @@
 
 <br/>
 
-  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Languages and Technologies:</div>
+<div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Languages and Technologies:</div>
 
   ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
