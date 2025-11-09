@@ -37,14 +37,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hero00001 /Hero00001 /output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/abl7o8"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -52,5 +46,13 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hero00001 .Hero00001 &"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hero00001 /Hero00001 /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hero00001 /Hero00001 /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hero00001 /Hero00001 /output/pacman-contribution-graph.svg">
+</picture>
 
 ###
