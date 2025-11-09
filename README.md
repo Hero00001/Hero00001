@@ -1,4 +1,4 @@
-<h1 align="center"> a game developer</h1>
+<h1 align="center"> game developer</h1>
 
 ###
 
