@@ -23,11 +23,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+ # This step has been modified
       - name: Push to repo
+        # This new line allows the step to succeed even if there are no new changes to commit
+        continue-on-error: true
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dist
           git commit -m "Generate Contribution Snake"
-          git push```
+          git push
