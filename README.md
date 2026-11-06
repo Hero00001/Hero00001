@@ -25,7 +25,7 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID)
-[![Discord](https://img.shields.io/badge/Discord-Let's%20Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="emoji"/>
+[![Discord](https://img.shields.io/badge/Discord-Let's%20Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kim_hero112) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="emoji"/>
 
 <br/>
 
